@@ -1,0 +1,10 @@
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Practica_Guiada_01\LogicaNegocio\bin\Debug\netcoreapp3.1\LogicaNegocio.deps.json
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Practica_Guiada_01\LogicaNegocio\bin\Debug\netcoreapp3.1\LogicaNegocio.dll
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Practica_Guiada_01\LogicaNegocio\bin\Debug\netcoreapp3.1\LogicaNegocio.pdb
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Practica_Guiada_01\LogicaNegocio\obj\Debug\netcoreapp3.1\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Practica_Guiada_01\LogicaNegocio\obj\Debug\netcoreapp3.1\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Practica_Guiada_01\LogicaNegocio\obj\Debug\netcoreapp3.1\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Practica_Guiada_01\LogicaNegocio\obj\Debug\netcoreapp3.1\LogicaNegocio.AssemblyInfo.cs
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Practica_Guiada_01\LogicaNegocio\obj\Debug\netcoreapp3.1\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Practica_Guiada_01\LogicaNegocio\obj\Debug\netcoreapp3.1\LogicaNegocio.dll
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Practica_Guiada_01\LogicaNegocio\obj\Debug\netcoreapp3.1\LogicaNegocio.pdb

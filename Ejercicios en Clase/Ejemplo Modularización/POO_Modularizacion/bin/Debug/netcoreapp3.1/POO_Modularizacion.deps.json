@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "POO_Modularizacion/1.0.0": {
+        "runtime": {
+          "POO_Modularizacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POO_Modularizacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,135 @@
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.deps.json
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.dll
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.pdb
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\LogicaNegocio\bin\Debug\netstandard2.0\AccesoDatos.dll
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\LogicaNegocio\bin\Debug\netstandard2.0\Entidades.dll
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\LogicaNegocio\bin\Debug\netstandard2.0\AccesoDatos.pdb
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\LogicaNegocio\bin\Debug\netstandard2.0\Entidades.pdb
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.AssemblyReference.cache
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfoInputs.cache
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfo.cs
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CopyComplete
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.dll
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp - Proyecto Capas - Acceso a Bases de Datos v2\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.deps.json
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp - Proyecto Capas - Acceso a Bases de Datos v2\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp - Proyecto Capas - Acceso a Bases de Datos v2\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp - Proyecto Capas - Acceso a Bases de Datos v2\LogicaNegocio\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp - Proyecto Capas - Acceso a Bases de Datos v2\LogicaNegocio\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp - Proyecto Capas - Acceso a Bases de Datos v2\LogicaNegocio\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp - Proyecto Capas - Acceso a Bases de Datos v2\LogicaNegocio\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp - Proyecto Capas - Acceso a Bases de Datos v2\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp - Proyecto Capas - Acceso a Bases de Datos v2\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp - Proyecto Capas - Acceso a Bases de Datos v2\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp - Proyecto Capas - Acceso a Bases de Datos v2\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp - Proyecto Capas - Acceso a Bases de Datos v2\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp - Proyecto Capas - Acceso a Bases de Datos v2\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CopyComplete
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp - Proyecto Capas - Acceso a Bases de Datos v2\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp - Proyecto Capas - Acceso a Bases de Datos v2\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.deps.json
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CopyComplete
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.deps.json
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\LogicaNegocio\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\LogicaNegocio\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\LogicaNegocio\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\LogicaNegocio\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CopyComplete
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.deps.json
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CopyComplete
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.deps.json
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CopyComplete
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.deps.json
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CopyComplete
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.pdb
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.deps.json
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.dll
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.pdb
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\AccesoDatos.dll
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\Entidades.dll
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\AccesoDatos.pdb
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\LogicaNegocio\bin\Debug\netstandard2.0\Entidades.pdb
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.AssemblyReference.cache
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfoInputs.cache
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfo.cs
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CopyComplete
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.dll
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Users\marie\Desktop\POO\Lección 27 - Lunes 17-Julio\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.deps.json
+C:\Users\marie\Desktop\POO\Lección 27 - Lunes 17-Julio\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Users\marie\Desktop\POO\Lección 27 - Lunes 17-Julio\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Users\marie\Desktop\POO\Lección 27 - Lunes 17-Julio\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\LogicaNegocio\bin\Debug\netstandard2.0\AccesoDatos.dll
+C:\Users\marie\Desktop\POO\Lección 27 - Lunes 17-Julio\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\LogicaNegocio\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\marie\Desktop\POO\Lección 27 - Lunes 17-Julio\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\LogicaNegocio\bin\Debug\netstandard2.0\AccesoDatos.pdb
+C:\Users\marie\Desktop\POO\Lección 27 - Lunes 17-Julio\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\LogicaNegocio\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\marie\Desktop\POO\Lección 27 - Lunes 17-Julio\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\marie\Desktop\POO\Lección 27 - Lunes 17-Julio\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\Desktop\POO\Lección 27 - Lunes 17-Julio\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\marie\Desktop\POO\Lección 27 - Lunes 17-Julio\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\marie\Desktop\POO\Lección 27 - Lunes 17-Julio\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\marie\Desktop\POO\Lección 27 - Lunes 17-Julio\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CopyComplete
+C:\Users\marie\Desktop\POO\Lección 27 - Lunes 17-Julio\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Users\marie\Desktop\POO\Lección 27 - Lunes 17-Julio\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\02 - CSharp_CapasWeb (Para entregar a los estudiantes)\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.pdb

@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>_01_CapaLogicaNegocio</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\03_CapaAccesoDatos\CapaEntidades.csproj" />
+    <ProjectReference Include="..\04_Capa_AcessoDatos\_04_Capa_AcessoDatos.csproj" />
+  </ItemGroup>
+
+</Project>

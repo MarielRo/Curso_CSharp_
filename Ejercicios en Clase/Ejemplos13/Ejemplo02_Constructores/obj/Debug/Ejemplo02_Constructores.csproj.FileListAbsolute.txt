@@ -1,0 +1,7 @@
+C:\Users\marie\Desktop\POO\Leccion 13 - Jueves 25 Mayo\Ejemplo01_Leccion13\Ejemplo02_Constructores\obj\Debug\Ejemplo02_Constructores.csproj.AssemblyReference.cache
+C:\Users\marie\Desktop\POO\Leccion 13 - Jueves 25 Mayo\Ejemplo01_Leccion13\Ejemplo02_Constructores\obj\Debug\Ejemplo02_Constructores.csproj.CoreCompileInputs.cache
+C:\Users\marie\Desktop\POO\Leccion 13 - Jueves 25 Mayo\Ejemplo01_Leccion13\Ejemplo02_Constructores\bin\Debug\Ejemplo02_Constructores.exe.config
+C:\Users\marie\Desktop\POO\Leccion 13 - Jueves 25 Mayo\Ejemplo01_Leccion13\Ejemplo02_Constructores\bin\Debug\Ejemplo02_Constructores.exe
+C:\Users\marie\Desktop\POO\Leccion 13 - Jueves 25 Mayo\Ejemplo01_Leccion13\Ejemplo02_Constructores\bin\Debug\Ejemplo02_Constructores.pdb
+C:\Users\marie\Desktop\POO\Leccion 13 - Jueves 25 Mayo\Ejemplo01_Leccion13\Ejemplo02_Constructores\obj\Debug\Ejemplo02_Constructores.exe
+C:\Users\marie\Desktop\POO\Leccion 13 - Jueves 25 Mayo\Ejemplo01_Leccion13\Ejemplo02_Constructores\obj\Debug\Ejemplo02_Constructores.pdb

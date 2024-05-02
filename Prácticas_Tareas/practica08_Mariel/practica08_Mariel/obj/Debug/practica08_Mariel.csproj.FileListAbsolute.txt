@@ -1,0 +1,7 @@
+C:\Users\marie\Desktop\POO\lunes22_mayo\practica08_Mariel\practica08_Mariel\bin\Debug\practica08_Mariel.exe.config
+C:\Users\marie\Desktop\POO\lunes22_mayo\practica08_Mariel\practica08_Mariel\bin\Debug\practica08_Mariel.exe
+C:\Users\marie\Desktop\POO\lunes22_mayo\practica08_Mariel\practica08_Mariel\bin\Debug\practica08_Mariel.pdb
+C:\Users\marie\Desktop\POO\lunes22_mayo\practica08_Mariel\practica08_Mariel\obj\Debug\practica08_Mariel.csproj.AssemblyReference.cache
+C:\Users\marie\Desktop\POO\lunes22_mayo\practica08_Mariel\practica08_Mariel\obj\Debug\practica08_Mariel.csproj.CoreCompileInputs.cache
+C:\Users\marie\Desktop\POO\lunes22_mayo\practica08_Mariel\practica08_Mariel\obj\Debug\practica08_Mariel.exe
+C:\Users\marie\Desktop\POO\lunes22_mayo\practica08_Mariel\practica08_Mariel\obj\Debug\practica08_Mariel.pdb

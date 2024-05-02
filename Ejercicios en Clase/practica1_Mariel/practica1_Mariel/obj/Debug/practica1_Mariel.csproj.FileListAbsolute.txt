@@ -1,0 +1,7 @@
+C:\Users\marie\Desktop\POO\Lección 09 - Martes 16-Mayo\Ejercicios clase\practica1_Mariel\practica1_Mariel\bin\Debug\practica1_Mariel.exe.config
+C:\Users\marie\Desktop\POO\Lección 09 - Martes 16-Mayo\Ejercicios clase\practica1_Mariel\practica1_Mariel\bin\Debug\practica1_Mariel.exe
+C:\Users\marie\Desktop\POO\Lección 09 - Martes 16-Mayo\Ejercicios clase\practica1_Mariel\practica1_Mariel\bin\Debug\practica1_Mariel.pdb
+C:\Users\marie\Desktop\POO\Lección 09 - Martes 16-Mayo\Ejercicios clase\practica1_Mariel\practica1_Mariel\obj\Debug\practica1_Mariel.csproj.AssemblyReference.cache
+C:\Users\marie\Desktop\POO\Lección 09 - Martes 16-Mayo\Ejercicios clase\practica1_Mariel\practica1_Mariel\obj\Debug\practica1_Mariel.csproj.CoreCompileInputs.cache
+C:\Users\marie\Desktop\POO\Lección 09 - Martes 16-Mayo\Ejercicios clase\practica1_Mariel\practica1_Mariel\obj\Debug\practica1_Mariel.exe
+C:\Users\marie\Desktop\POO\Lección 09 - Martes 16-Mayo\Ejercicios clase\practica1_Mariel\practica1_Mariel\obj\Debug\practica1_Mariel.pdb

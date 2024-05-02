@@ -1,0 +1,205 @@
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.exe
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.deps.json
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.runtimeconfig.json
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.runtimeconfig.dev.json
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.dll
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.pdb
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.AssemblyReference.cache
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmClientes.resources
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.Properties.Resources.resources
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.GenerateResource.cache
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.AssemblyInfoInputs.cache
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.AssemblyInfo.cs
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.CoreCompileInputs.cache
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.dll
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.pdb
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.genruntimeconfig.cache
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\bin\Debug\netcoreapp3.1\AccesoDatos.dll
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\bin\Debug\netcoreapp3.1\Entidades.dll
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\bin\Debug\netcoreapp3.1\LogicaNegocio.dll
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\bin\Debug\netcoreapp3.1\Entidades.pdb
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\bin\Debug\netcoreapp3.1\LogicaNegocio.pdb
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\bin\Debug\netcoreapp3.1\AccesoDatos.pdb
+D:\PruebasVisualStudio\ModuloPOO\Clase15\EjemploCapas_AccesaBD\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.CopyComplete
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp - Proyecto Capas - Acceso a Bases de Datos v2\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp - Proyecto Capas - Acceso a Bases de Datos v2\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmClientes.resources
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp - Proyecto Capas - Acceso a Bases de Datos v2\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.Properties.Resources.resources
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp - Proyecto Capas - Acceso a Bases de Datos v2\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.GenerateResource.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp - Proyecto Capas - Acceso a Bases de Datos v2\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp - Proyecto Capas - Acceso a Bases de Datos v2\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp - Proyecto Capas - Acceso a Bases de Datos v2\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.exe
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.deps.json
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.runtimeconfig.json
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.runtimeconfig.dev.json
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\LogicaNegocio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\LogicaNegocio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\AccesoDatos.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmClientes.resources
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.Properties.Resources.resources
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.GenerateResource.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.AssemblyInfo.cs
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.CopyComplete
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\18_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.genruntimeconfig.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.exe
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.deps.json
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.runtimeconfig.json
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.runtimeconfig.dev.json
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\bin\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\bin\Debug\netcoreapp3.1\LogicaNegocio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\bin\Debug\netcoreapp3.1\LogicaNegocio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\bin\Debug\netcoreapp3.1\AccesoDatos.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmClientes.resources
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.Properties.Resources.resources
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.GenerateResource.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.AssemblyInfo.cs
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.CopyComplete
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\19_CSharp Paq Nugeet\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.genruntimeconfig.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.exe
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.deps.json
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.runtimeconfig.json
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.runtimeconfig.dev.json
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\LogicaNegocio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\LogicaNegocio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\AccesoDatos.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmBuscarClientes.resources
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmClientes.resources
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.Properties.Resources.resources
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.GenerateResource.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.AssemblyInfo.cs
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.CopyComplete
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 18\20_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.genruntimeconfig.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.exe
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.deps.json
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.runtimeconfig.json
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.runtimeconfig.dev.json
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\LogicaNegocio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\LogicaNegocio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\AccesoDatos.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmBuscarClientes.resources
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmClientes.resources
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.Properties.Resources.resources
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.GenerateResource.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.AssemblyInfo.cs
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.CopyComplete
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 19\21_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.genruntimeconfig.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.exe
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.deps.json
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.runtimeconfig.json
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.runtimeconfig.dev.json
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\LogicaNegocio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\LogicaNegocio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\AccesoDatos.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.AssemblyReference.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmBuscarClientes.resources
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmClientes.resources
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.Properties.Resources.resources
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.GenerateResource.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.AssemblyInfoInputs.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.AssemblyInfo.cs
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.CoreCompileInputs.cache
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.CopyComplete
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.dll
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.pdb
+C:\Users\Luis\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\22_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.genruntimeconfig.cache
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.exe
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.deps.json
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.runtimeconfig.json
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.runtimeconfig.dev.json
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.dll
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\InterfazEscritorio.pdb
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\AccesoDatos.dll
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\Entidades.dll
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\LogicaNegocio.dll
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\Entidades.pdb
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\LogicaNegocio.pdb
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\bin\Debug\netcoreapp3.1\AccesoDatos.pdb
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.AssemblyReference.cache
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmBuscarClientes.resources
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmClientes.resources
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmMenu.resources
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.Properties.Resources.resources
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.GenerateResource.cache
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.AssemblyInfoInputs.cache
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.AssemblyInfo.cs
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.CoreCompileInputs.cache
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.csproj.CopyComplete
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.dll
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.pdb
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.genruntimeconfig.cache
+D:\OneDrive - ina.ac.cr\INA\2021\Programación 2021\05 Programación Orientada a Objetos\Lección 20\23_CSharp\InterfazEscritorio\obj\Debug\netcoreapp3.1\InterfazEscritorio.FrmClientesReservaciones.resources

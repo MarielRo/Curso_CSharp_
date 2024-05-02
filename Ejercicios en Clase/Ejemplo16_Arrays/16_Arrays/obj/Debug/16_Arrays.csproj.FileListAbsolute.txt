@@ -1,0 +1,7 @@
+C:\Users\marie\Desktop\POO\Leccion 14 - Viernes 26 Mayo\16_Arrays\16_Arrays\bin\Debug\16_Arrays.exe.config
+C:\Users\marie\Desktop\POO\Leccion 14 - Viernes 26 Mayo\16_Arrays\16_Arrays\bin\Debug\16_Arrays.exe
+C:\Users\marie\Desktop\POO\Leccion 14 - Viernes 26 Mayo\16_Arrays\16_Arrays\bin\Debug\16_Arrays.pdb
+C:\Users\marie\Desktop\POO\Leccion 14 - Viernes 26 Mayo\16_Arrays\16_Arrays\obj\Debug\16_Arrays.csproj.AssemblyReference.cache
+C:\Users\marie\Desktop\POO\Leccion 14 - Viernes 26 Mayo\16_Arrays\16_Arrays\obj\Debug\16_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\marie\Desktop\POO\Leccion 14 - Viernes 26 Mayo\16_Arrays\16_Arrays\obj\Debug\16_Arrays.exe
+C:\Users\marie\Desktop\POO\Leccion 14 - Viernes 26 Mayo\16_Arrays\16_Arrays\obj\Debug\16_Arrays.pdb

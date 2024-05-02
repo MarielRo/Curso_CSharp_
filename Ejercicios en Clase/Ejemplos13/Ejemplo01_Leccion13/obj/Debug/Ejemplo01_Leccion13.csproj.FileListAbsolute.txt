@@ -1,0 +1,7 @@
+C:\Users\marie\Desktop\POO\Leccion 13 - Jueves 25 Mayo\Ejemplo01_Leccion13\Ejemplo01_Leccion13\bin\Debug\Ejemplo01_Leccion13.exe.config
+C:\Users\marie\Desktop\POO\Leccion 13 - Jueves 25 Mayo\Ejemplo01_Leccion13\Ejemplo01_Leccion13\bin\Debug\Ejemplo01_Leccion13.exe
+C:\Users\marie\Desktop\POO\Leccion 13 - Jueves 25 Mayo\Ejemplo01_Leccion13\Ejemplo01_Leccion13\bin\Debug\Ejemplo01_Leccion13.pdb
+C:\Users\marie\Desktop\POO\Leccion 13 - Jueves 25 Mayo\Ejemplo01_Leccion13\Ejemplo01_Leccion13\obj\Debug\Ejemplo01_Leccion13.csproj.AssemblyReference.cache
+C:\Users\marie\Desktop\POO\Leccion 13 - Jueves 25 Mayo\Ejemplo01_Leccion13\Ejemplo01_Leccion13\obj\Debug\Ejemplo01_Leccion13.csproj.CoreCompileInputs.cache
+C:\Users\marie\Desktop\POO\Leccion 13 - Jueves 25 Mayo\Ejemplo01_Leccion13\Ejemplo01_Leccion13\obj\Debug\Ejemplo01_Leccion13.exe
+C:\Users\marie\Desktop\POO\Leccion 13 - Jueves 25 Mayo\Ejemplo01_Leccion13\Ejemplo01_Leccion13\obj\Debug\Ejemplo01_Leccion13.pdb

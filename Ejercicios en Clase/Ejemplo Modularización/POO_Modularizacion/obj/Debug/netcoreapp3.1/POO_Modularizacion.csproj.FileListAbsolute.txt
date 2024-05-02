@@ -1,0 +1,14 @@
+C:\Users\marie\Desktop\POO\Leccion 14 - Viernes 26 Mayo\POO_Modularizacion\POO_Modularizacion\bin\Debug\netcoreapp3.1\POO_Modularizacion.exe
+C:\Users\marie\Desktop\POO\Leccion 14 - Viernes 26 Mayo\POO_Modularizacion\POO_Modularizacion\bin\Debug\netcoreapp3.1\POO_Modularizacion.deps.json
+C:\Users\marie\Desktop\POO\Leccion 14 - Viernes 26 Mayo\POO_Modularizacion\POO_Modularizacion\bin\Debug\netcoreapp3.1\POO_Modularizacion.runtimeconfig.json
+C:\Users\marie\Desktop\POO\Leccion 14 - Viernes 26 Mayo\POO_Modularizacion\POO_Modularizacion\bin\Debug\netcoreapp3.1\POO_Modularizacion.runtimeconfig.dev.json
+C:\Users\marie\Desktop\POO\Leccion 14 - Viernes 26 Mayo\POO_Modularizacion\POO_Modularizacion\bin\Debug\netcoreapp3.1\POO_Modularizacion.dll
+C:\Users\marie\Desktop\POO\Leccion 14 - Viernes 26 Mayo\POO_Modularizacion\POO_Modularizacion\bin\Debug\netcoreapp3.1\POO_Modularizacion.pdb
+C:\Users\marie\Desktop\POO\Leccion 14 - Viernes 26 Mayo\POO_Modularizacion\POO_Modularizacion\obj\Debug\netcoreapp3.1\POO_Modularizacion.csproj.AssemblyReference.cache
+C:\Users\marie\Desktop\POO\Leccion 14 - Viernes 26 Mayo\POO_Modularizacion\POO_Modularizacion\obj\Debug\netcoreapp3.1\POO_Modularizacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\Desktop\POO\Leccion 14 - Viernes 26 Mayo\POO_Modularizacion\POO_Modularizacion\obj\Debug\netcoreapp3.1\POO_Modularizacion.AssemblyInfoInputs.cache
+C:\Users\marie\Desktop\POO\Leccion 14 - Viernes 26 Mayo\POO_Modularizacion\POO_Modularizacion\obj\Debug\netcoreapp3.1\POO_Modularizacion.AssemblyInfo.cs
+C:\Users\marie\Desktop\POO\Leccion 14 - Viernes 26 Mayo\POO_Modularizacion\POO_Modularizacion\obj\Debug\netcoreapp3.1\POO_Modularizacion.csproj.CoreCompileInputs.cache
+C:\Users\marie\Desktop\POO\Leccion 14 - Viernes 26 Mayo\POO_Modularizacion\POO_Modularizacion\obj\Debug\netcoreapp3.1\POO_Modularizacion.dll
+C:\Users\marie\Desktop\POO\Leccion 14 - Viernes 26 Mayo\POO_Modularizacion\POO_Modularizacion\obj\Debug\netcoreapp3.1\POO_Modularizacion.pdb
+C:\Users\marie\Desktop\POO\Leccion 14 - Viernes 26 Mayo\POO_Modularizacion\POO_Modularizacion\obj\Debug\netcoreapp3.1\POO_Modularizacion.genruntimeconfig.cache

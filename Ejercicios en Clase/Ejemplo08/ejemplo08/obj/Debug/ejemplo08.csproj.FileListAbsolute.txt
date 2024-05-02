@@ -1,0 +1,7 @@
+C:\Users\marie\Desktop\POO\lunes22_mayo\ejemplo08\ejemplo08\bin\Debug\ejemplo08.exe.config
+C:\Users\marie\Desktop\POO\lunes22_mayo\ejemplo08\ejemplo08\bin\Debug\ejemplo08.exe
+C:\Users\marie\Desktop\POO\lunes22_mayo\ejemplo08\ejemplo08\bin\Debug\ejemplo08.pdb
+C:\Users\marie\Desktop\POO\lunes22_mayo\ejemplo08\ejemplo08\obj\Debug\ejemplo08.csproj.AssemblyReference.cache
+C:\Users\marie\Desktop\POO\lunes22_mayo\ejemplo08\ejemplo08\obj\Debug\ejemplo08.csproj.CoreCompileInputs.cache
+C:\Users\marie\Desktop\POO\lunes22_mayo\ejemplo08\ejemplo08\obj\Debug\ejemplo08.exe
+C:\Users\marie\Desktop\POO\lunes22_mayo\ejemplo08\ejemplo08\obj\Debug\ejemplo08.pdb

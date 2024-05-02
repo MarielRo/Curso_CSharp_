@@ -1,0 +1,7 @@
+C:\Users\marie\Desktop\POO\lunes22_mayo\Practica4_Marieel\Practica4_Marieel\bin\Debug\Practica4_Marieel.exe.config
+C:\Users\marie\Desktop\POO\lunes22_mayo\Practica4_Marieel\Practica4_Marieel\bin\Debug\Practica4_Marieel.exe
+C:\Users\marie\Desktop\POO\lunes22_mayo\Practica4_Marieel\Practica4_Marieel\bin\Debug\Practica4_Marieel.pdb
+C:\Users\marie\Desktop\POO\lunes22_mayo\Practica4_Marieel\Practica4_Marieel\obj\Debug\Practica4_Marieel.csproj.AssemblyReference.cache
+C:\Users\marie\Desktop\POO\lunes22_mayo\Practica4_Marieel\Practica4_Marieel\obj\Debug\Practica4_Marieel.csproj.CoreCompileInputs.cache
+C:\Users\marie\Desktop\POO\lunes22_mayo\Practica4_Marieel\Practica4_Marieel\obj\Debug\Practica4_Marieel.exe
+C:\Users\marie\Desktop\POO\lunes22_mayo\Practica4_Marieel\Practica4_Marieel\obj\Debug\Practica4_Marieel.pdb

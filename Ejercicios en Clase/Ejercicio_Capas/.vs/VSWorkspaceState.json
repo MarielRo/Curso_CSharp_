@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\01_CapaLogicaNegocio",
+    "\\01_CapaLogicaNegocio\\bin",
+    "\\01_CapaLogicaNegocio\\bin\\Debug",
+    "\\01_Capas",
+    "\\01_Capas\\bin",
+    "\\01_Capas\\bin\\Debug",
+    "\\03_CapaAccesoDatos",
+    "\\03_CapaAccesoDatos\\bin",
+    "\\03_CapaAccesoDatos\\bin\\Debug"
+  ],
+  "SelectedNode": "\\01_Capas\\bin\\Debug\\netcoreapp3.1",
+  "PreviewInSolutionExplorer": false
+}

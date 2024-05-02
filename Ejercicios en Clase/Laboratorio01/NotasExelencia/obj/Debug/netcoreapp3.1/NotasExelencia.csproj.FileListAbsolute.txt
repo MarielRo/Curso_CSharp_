@@ -1,0 +1,16 @@
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Laboratorio01\NotasExelencia\bin\Debug\netcoreapp3.1\NotasExelencia.exe
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Laboratorio01\NotasExelencia\bin\Debug\netcoreapp3.1\NotasExelencia.deps.json
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Laboratorio01\NotasExelencia\bin\Debug\netcoreapp3.1\NotasExelencia.runtimeconfig.json
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Laboratorio01\NotasExelencia\bin\Debug\netcoreapp3.1\NotasExelencia.runtimeconfig.dev.json
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Laboratorio01\NotasExelencia\bin\Debug\netcoreapp3.1\NotasExelencia.dll
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Laboratorio01\NotasExelencia\bin\Debug\netcoreapp3.1\NotasExelencia.pdb
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Laboratorio01\NotasExelencia\obj\Debug\netcoreapp3.1\NotasExelencia.csproj.AssemblyReference.cache
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Laboratorio01\NotasExelencia\obj\Debug\netcoreapp3.1\NotasExelencia.FrmMenu.resources
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Laboratorio01\NotasExelencia\obj\Debug\netcoreapp3.1\NotasExelencia.csproj.GenerateResource.cache
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Laboratorio01\NotasExelencia\obj\Debug\netcoreapp3.1\NotasExelencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Laboratorio01\NotasExelencia\obj\Debug\netcoreapp3.1\NotasExelencia.AssemblyInfoInputs.cache
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Laboratorio01\NotasExelencia\obj\Debug\netcoreapp3.1\NotasExelencia.AssemblyInfo.cs
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Laboratorio01\NotasExelencia\obj\Debug\netcoreapp3.1\NotasExelencia.csproj.CoreCompileInputs.cache
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Laboratorio01\NotasExelencia\obj\Debug\netcoreapp3.1\NotasExelencia.dll
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Laboratorio01\NotasExelencia\obj\Debug\netcoreapp3.1\NotasExelencia.pdb
+C:\Users\marie\Desktop\POO\Leccion 15 - Martes 30 Mayo\Laboratorio01\NotasExelencia\obj\Debug\netcoreapp3.1\NotasExelencia.genruntimeconfig.cache
